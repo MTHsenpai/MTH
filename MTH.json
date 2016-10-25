@@ -29,10 +29,12 @@
             },
             "#chat .welcome": {               
                 "background": "linear-gradient(135deg, #009cdd 0,#0a0a0a 13%,#0a0a0a 100%)",
-                "border": "1px solid #009cdd",
+                "border": "1px solid #A4A4A4",
                 "border-left": "0px !important",
                 "border-right": "0px !important",
-                "font-weight": "bold !important"
+                "font-weight": "bold !important",
+                "color": "#ffffff"
+
             },
                   "#room-name": {
 		  "color":"#ffffff",
