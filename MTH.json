@@ -25,11 +25,7 @@
                 "border-right": "0px !important",
                 "border-collapse": "collapse !important"
             },
-                "#user-menu .avatar": {
-                "box-shadow": "none",
-                "background": "url(http://i.imgur.com/j7fnxpL.gif) !important",
-                "border-radius": "30px"  
-	    },
+               
                 ".pop-menu ul": {
                  "background": "rgba(0,0,0,0.2)",
                  "border-radius": "0px 0px 30px 30px"
