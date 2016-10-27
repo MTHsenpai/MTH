@@ -125,6 +125,12 @@
                 "background": "url('http://i.imgur.com/K9nZ9hu.gif') !important"
 
             },
+              ".cm[data-cid^=\"3856336\"] .bdg": {
+                "background": "url('http://i.imgur.com/WAVG5m3.gif') !important"
+            },
+
+
+
             ".cm[data-cid^=\"5984511\"] .bdg": {
                 "background": "url('http://i.imgur.com/vekhOYs.gif') !important"
             },
