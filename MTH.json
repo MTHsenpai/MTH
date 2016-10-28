@@ -33,13 +33,13 @@
 	     },
                
                  ".pop-menu": {
-                 "background": "transparent",
-                 "border-radius": "0px 0px 30px 30px"
-                 
+                 "background": "transparent"
+                                  
 	     },
                
-               ".pop-menu ul": {
-                 "background": "rgba(0,0,0,0.3)"
+                 ".pop-menu ul": {
+                 "background": "rgba(0,0,0,0.3)",
+                 "border-radius": "0px 0px 30px 30px"
                 
 	     },
 
