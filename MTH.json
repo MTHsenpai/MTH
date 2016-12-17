@@ -103,6 +103,10 @@
 		  "font-weight":"bold"
 		  },
            
+                ".cm[data-cid^=\"5714412\"] .bdg": { 
+                "background": "url('http://i.imgur.com/UiuNr3q.gif') !important"
+
+            },
              ".cm[data-cid^=\"5081120\"] .bdg": { 
                 "background": "url('http://i.imgur.com/ICQ1T1u.gif') !important"
             },
