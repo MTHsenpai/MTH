@@ -179,7 +179,7 @@
             },
             ".cm[data-cid^=\"3631561\"] .bdg": {                "background": "url('http://i.imgur.com/LdSf8bl.gif') !important"
             },
-             ".cm[data-cid^=\"6312450\"] .bdg": {
+	}             ".cm[data-cid^=\"6312450\"] .bdg": {
                 "background": "url('http://i.imgur.com/7DEyMa0.gif') !important"
             },
             ".cm[data-cid^=\"5984511\"]": {
@@ -188,7 +188,7 @@
             ".cm[data-cid^=\"5984511\"]:nth-child(2n+1)": {
                 "background": "linear-gradient(135deg, #009cdd 0,#111317 13%,#111317 100%)"
             },
-"             ".cm.moderation": {
+             ".cm.moderation": {
                 "background": "linear-gradient(135deg, #009cdd 0,#0a0a0a 13%,#0a0a0a 100%)"
             },
             ".cm.moderation": {
@@ -212,17 +212,21 @@
         },
         "playback-container": ""
     },
-    
 
-  "bot.commands.fireCommand": {
-    "command": fire,
-       "rank": user,
-       "type": exact,
-"functionality": function (chat, cmd), 
+
+
+
+   
+
+  "basicBot.commands.fireCommands": {
+    command: fire,
+       rank: user,
+       type: exact,
+functionality: function (chat, cmd), 
       if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
       if (!bot.commands.executable(this.rank, chat)) return void (0); 
 }
-   else {  
+   else:   
          API.sendChat ("http://i.imgur.com/xPXQWp7.gif");
 
 	    }
