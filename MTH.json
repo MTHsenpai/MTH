@@ -1,4 +1,4 @@
-{
+},
     "author": "mth",
     "colors": {
         "background": "http://i.imgur.com/1aw3xcd.png",
@@ -178,7 +178,7 @@
             },
             ".cm[data-cid^=\"3631561\"] .bdg": {                "background": "url('http://i.imgur.com/LdSf8bl.gif') !important"
             },
-	}             ".cm[data-cid^=\"6312450\"] .bdg": {
+	             ".cm[data-cid^=\"6312450\"] .bdg": {
                 "background": "url('http://i.imgur.com/7DEyMa0.gif') !important"
             },
             ".cm[data-cid^=\"5984511\"]": {
@@ -211,36 +211,6 @@
         },
         "playback-container": ""
     },
-
-
-
-
-   
-
-  "basicBot.commands.fireCommands": {
-    command: fire,
-       rank: user,
-       type: exact,
-functionality: function (chat, cmd), 
-      if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
-      if (!bot.commands.executable(this.rank, chat)) return void (0); 
-}
-   else:   
-         API.sendChat ("http://i.imgur.com/xPXQWp7.gif");
-
-	    }
-	 }
-};
-
-
-\\ Load the chatpackage again to account for any changes
-bot.loadChat();
-
-}
-
-
-
-
 
         "rules": {
         "allowAutorespond": false,
