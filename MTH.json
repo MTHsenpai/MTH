@@ -93,6 +93,7 @@
 		  "font-weight":"bold"
 		  },
 		  
+
 		  "#now-playing-time": {
 		  "color":"#FFA500",
 		  "font-weight":"bold"
@@ -125,7 +126,17 @@
            
 
            },
-	    ".cm[data-cid^=\"12820836\"] .bdg": { 
+	     ".cm[data-cid^=\"6165455\"] .bdg": { 
+                "background": "url('http://i.imgur.com/mTPCkyr.gif') !important"  
+           
+
+           },
+            
+
+
+
+
+               ".cm[data-cid^=\"12820836\"] .bdg": { 
                 "background": "url('http://i.imgur.com/K9nZ9hu.gif') !important"
 
             },
