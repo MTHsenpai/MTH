@@ -79,8 +79,7 @@
 		  },
 
                   "#waitlist-button": {
-		  "color":"#FFFFFF",
-		  "font-weight":"bold"
+		  "color":"#FFFFFF",		  "font-weight":"bold"
 		  },
 
 		  "#now-playing-media": {
@@ -122,7 +121,7 @@
          
              },
 	    ".cm[data-cid^=\"5109245\"] .bdg": { 
-                "background": "url('http://i.imgur.com/mTPCkyr.gif') !important"  
+                "background": "url('http://i.imgur.com/J8Ej6ZB.gif') !important"  
            
 
            },
