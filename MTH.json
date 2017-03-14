@@ -72,7 +72,7 @@
 		  "color":"#FF3300",
 		  "font-weight":"bold"
 		   },
-
+ 
                   "#users-button": {
 		  "color":"#FFFFFF",
 		  "font-weight":"bold"
@@ -113,7 +113,7 @@
                 "background": "url('http://i.imgur.com/oJzKBs1.gif') !important"
             }, 
 
-
+ 
 
                 ".cm[data-cid^=\"5081120\"] .bdg": { 
                 "background": "url('http://i.imgur.com/ICQ1T1u.gif') !important"
@@ -140,7 +140,10 @@
            },
             
 
+                ".cm[data-cid^=\"5191593\"] .bdg": { 
+                "background": "url('http://i.imgur.com/0rWf2mK.gif') !important"
 
+            },
 
 
                ".cm[data-cid^=\"12820836\"] .bdg": { 
