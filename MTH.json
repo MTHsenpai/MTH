@@ -85,6 +85,7 @@
 		  "#now-playing-media": {
 		  "color":"#ffffff",
 		  "font-weight":"900"
+
 		  },
 		 
                   "#now-playing-dj": {
@@ -107,7 +108,14 @@
                 "background": "url('http://i.imgur.com/UiuNr3q.gif') !important"
 
             },
-             ".cm[data-cid^=\"5081120\"] .bdg": { 
+            
+              ".cm[data-cid^=\"5214563\"] .bdg": { 
+                "background": "url('http://i.imgur.com/oJzKBs1.gif') !important"
+            }, 
+
+
+
+                ".cm[data-cid^=\"5081120\"] .bdg": { 
                 "background": "url('http://i.imgur.com/ICQ1T1u.gif') !important"
             },
 	    ".cm[data-cid^=\"4409204\"] .bdg": { 
