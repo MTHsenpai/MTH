@@ -116,8 +116,7 @@
             }, 
 
                ".cm[data-cid^=\"3425516\"] .bdg": { 
-               
-     "background": "url('http://i.imgur.com/Eby8f9K.gif') !important"
+               "background": "url('http://i.imgur.com/Eby8f9K.gif') !important"
 
             
 
@@ -147,6 +146,19 @@
 
            },
             
+
+              ".cm[data-cid^=\"3908945\"] .bdg": { 
+               
+      "background": "url('http://i.imgur.com/CskAJce.gif') !important"
+
+            
+
+},
+
+
+
+
+
 
                 ".cm[data-cid^=\"5191593\"] .bdg": { 
                 "background": "url('http://i.imgur.com/0rWf2mK.gif') !important"
