@@ -68,8 +68,7 @@
                   "#room-name": {
 
 		  "color":"#ffffff",
-		  "font-weight":"900"
-		  },
+		  "font-weight":"900"		  },
 		 
                    "#room-host": {
 		  "color":"#FF3300",
@@ -80,7 +79,6 @@
 		  "color":"#FFFFFF",
 		  "font-weight":"bold"
 		  },
-
                   "#waitlist-button": { 
 		  "color":"#FFFFFF",		                                                                                                                 
                   "font-weight":"bold"
@@ -117,7 +115,13 @@
                 "background": "url('http://i.imgur.com/WcpeCss.gif') !important"
             }, 
 
- 
+               ".cm[data-cid^=\"3425516\"] .bdg": { 
+               
+     "background": "url('http://i.imgur.com/Eby8f9K.gif') !important"
+
+            
+
+              },
 
                 ".cm[data-cid^=\"5081120\"] .bdg": { 
                 "background": "url('http://i.imgur.com/ICQ1T1u.gif') !important"
