@@ -118,7 +118,7 @@
 
                ".cm[data-cid^=\"3425516\"] .bdg": { 
                "background": "url('http://i.imgur.com/Eby8f9K.gif') !important"
-	    };
+	    },
             
             ".cm[data-cid^=\"avatar id\"] .bdg": { 
             "background": "url('imgur link') !important"
