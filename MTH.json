@@ -139,36 +139,29 @@
              },
 	    ".cm[data-cid^=\"5109245\"] .bdg": { 
                 "background": "url('http://i.imgur.com/J8Ej6ZB.gif') !important"  
-           
-
-           },
+            },
 	     ".cm[data-cid^=\"6165455\"] .bdg": { 
                 "background": "url('http://i.imgur.com/pLextyS.gif') !important"  
-           
-
-           },
-            
-
-              ".cm[data-cid^=\"3908945\"] .bdg": { 
+            },
+               ".cm[data-cid^=\"3908945\"] .bdg": { 
                "background": "url('http://i.imgur.com/CskAJce.gif') !important"
-
-            
-
-},
-
-
-
-
-
-
+	    },
                 ".cm[data-cid^=\"5191593\"] .bdg": { 
                 "background": "url('http://i.imgur.com/0rWf2mK.gif') !important"
+             },
+
+                 ".cm[data-cid^=\"6312450\"] .bdg": { 
+                 "background": "url('http://i.imgur.com/HIMBtkv.gif') !important"
 
             },
+                 
 
 
-               ".cm[data-cid^=\"12820836\"] .bdg": { 
-                "background": "url('http://i.imgur.com/K9nZ9hu.gif') !important"
+
+
+
+                ".cm[data-cid^=\"12820836\"] .bdg": { 
+                "background": "url('http://i.imgur.com/1HIhEn5.gif') !important"
 
             },
               ".cm[data-cid^=\"17380174\"] .bdg": {
