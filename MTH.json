@@ -80,7 +80,7 @@
 		  "font-weight":"bold"
 		  },
                   "#waitlist-button": { 
-		  "color":"#FFFFFF",		                                                                                                                 
+ 		  "color":"#FFFFFF",		                                                                                                                 
                   "font-weight":"bold"
 		  },
 
@@ -106,6 +106,13 @@
 		  "font-weight":"bold"
 		  },
            
+                 
+               ".cm[data-cid^=\"5714412\"] .bdg": { 
+               "background": "url('http://i.imgur.com/wpEJsd7.gif') !important"
+
+             },
+
+
                 ".cm[data-cid^=\"5714412\"] .bdg": { 
                 "background": "url('http://i.imgur.com/UiuNr3q.gif') !important"
 
