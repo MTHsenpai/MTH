@@ -150,7 +150,10 @@
                 "background": "url('http://i.imgur.com/0rWf2mK.gif') !important"
              },
 
-                                 
+                  ".cm[data-cid^=\"5440253\"] .bdg": { 
+                  "background": "url('http://i.imgur.com/Qustljg.gif') !important"
+
+            },                  
 
                 ".cm[data-cid^=\"12820836\"] .bdg": { 
                 "background": "url('http://i.imgur.com/1HIhEn5.gif') !important"
