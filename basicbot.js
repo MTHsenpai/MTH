@@ -283,7 +283,7 @@
             skipPosition: 3,
             skipReasons: [
                 ["theme", "This song does not fit the room theme. "],
-                ["op", "This song is on the OP list. "],
+                ["op", "http://vocaroo.com/delete/s1AlsKIUNqtv/fcf82bbe4889621c. "],
                 ["history", "This song is in the history. "],
                 ["mix", "You played a mix, which is against the rules. "],
                 ["sound", "The song you played had bad sound quality or no sound. "],
