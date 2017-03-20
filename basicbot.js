@@ -1820,7 +1820,26 @@
                 }
             },
 
-            bouncerPlusCommand: {
+             
+
+                 fireoCommand: {
+                   command:'fire',
+                     rank:'user',
+                     user:'exact',
+               functionality: function (chat, cmd) {
+
+                if (!bot.commands.executable(thi.rank, chat)) return void (0);
+                else {
+               API.sendchat("http://i.imgur.com/qoetrfy.gif");
+          }
+       }
+    };   
+
+
+
+
+
+                bouncerPlusCommand: {
                 command: 'bouncer+',
                 rank: 'manager',
                 type: 'exact',
