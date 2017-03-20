@@ -150,15 +150,7 @@
                 "background": "url('http://i.imgur.com/0rWf2mK.gif') !important"
              },
 
-                 ".cm[data-cid^=\"6312450\"] .bdg": { 
-                 "background": "url('http://i.imgur.com/QUQ2SGr.gif') !important"
-
-            },
-                 
-
-
-
-
+                                 
 
                 ".cm[data-cid^=\"12820836\"] .bdg": { 
                 "background": "url('http://i.imgur.com/1HIhEn5.gif') !important"
@@ -224,7 +216,7 @@
              "background": "url('http://i.imgur.com/LdSf8bl.gif') !important"
             },
 	        ".cm[data-cid^=\"6312450\"] .bdg": {
-                "background": "url('http://i.imgur.com/7DEyMa0.gif') !important"
+                "background": "url('http://i.imgur.com/QUQ2SGr.gif') !important"
             },
             ".cm[data-cid^=\"5984511\"]": {
                 "background": "linear-gradient(135deg, #009cdd 0,#0a0a0a 13%,#0a0a0a 100%)"
