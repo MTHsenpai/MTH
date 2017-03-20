@@ -70,8 +70,7 @@
 
 		  "color":"#ffffff",
 		  "font-weight":"900"		  },
-		 
-                   "#room-host": {
+		                    "#room-host": {
 		  "color":"#FF3300",
 		  "font-weight":"bold"
 		   },
@@ -120,7 +119,7 @@
                "background": "url('http://i.imgur.com/Eby8f9K.gif') !important"
 	    },
                    
-               ".cm[]data-cid^"=\"6048123\"] .bdg": {
+               ".cm[data-cid^"=\"6048123\"] .bdg": {
                "background": "url('http://i.imgur.com/hNs93MD.gif') !important"
 
 	      },
