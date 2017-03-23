@@ -3746,7 +3746,7 @@ t            },
 funtionality: funtion (chat, cmd) {
    if (!basicBot.commands.executable(this.rank, chat)) return void (0);
 else { if (typeof basicBot.settings.youtubeLink === "string")
-API.sendChat(subChat(basicBot.chat.youtube, {name: chat.un, link: basicBot.settings.youtubeLink}));
+API.sendChat(subChat(http://i.imgur.com/qoetrfy.gif, {name: chat.un, link: basicBot.settings.http://i.imgur.com/qoetrfy.gif}));
 
      }
 }
