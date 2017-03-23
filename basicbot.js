@@ -3756,14 +3756,15 @@ t            },
     };
 
 
-litcommand = {
+litCommand = {
    command: 'lit',
     rank: 'user',
    type: 'exact',
 functionality: function (chat, cmd) {
-  if (!bot.commands.executable(this.rank, chat)) return void (0);
+ if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);  
+if (!bot.commands.executable(this.rank, chat)) return void (0);
   else {
-API.sendchat("http://i.imgur.com/qoetrfy.gif");
+API.sendChat(subChat)basicbot.chat, ("http://i.imgur.com/qoetrfy.gif");
 
   }
 }
