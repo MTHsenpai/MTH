@@ -238,7 +238,7 @@
     var basicBot = {
         version: "2.9.1",
         status: false,
-        name: "basicBot",
+        name: "basickock",
         loggedInID: null,
         scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
@@ -3474,7 +3474,7 @@
                         });
                     }
                 }
-            },
+t            },
 
             unlockCommand: {
                 command: 'unlock',
@@ -3505,7 +3505,7 @@
                             var mutedUsers = json.data;
                             var found = false;
                             var mutedUser = null;
-                            var permFrom = basicBot.userUtilities.getPermission(chat.uid);
+                            var permFrom = basicBot.userUtiliies.getPermission(chat.uid);
                             if (msg.indexOf('@') === -1 && arg === 'all'){
                                 if (permFrom > 2){
                                     for (var i = 0; i < mutedUsers.length; i++){
@@ -3739,7 +3739,22 @@
         }
     };
 
-    loadChat(basicBot.startup);
+ fireCommand: {
+ command: 'fire',
+ rank: 'user',
+ type:'exact',
+funtionality: funtion (chat, cmd) {
+   if (!basicBot.commands.executable(this.rank, chat)) return void (0);
+else { if (typeof basicBot.settings.youtubeLink === "string")
+API.sendChat(subChat(basicBot.chat.youtube, {name: chat.un, link: basicBot.settings.youtubeLink}));
+
+     }
+}
+ }
+};
+
+
+loadChat(basicBot.startup);
 }).call(this);
 
 // isebella su
