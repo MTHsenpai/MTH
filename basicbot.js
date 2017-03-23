@@ -1822,7 +1822,7 @@
 
              
 
-                 fireoCommand: {
+                 fireCommand: {
                    command:'fire',
                      rank:'user',
                      user:'exact',
@@ -1830,7 +1830,7 @@
 
                 if (!bot.commands.executable(thi.rank, chat)) return void (0);
                 else {
-               API.sendchat ("http://i.imgur.com/qoetrfy.gif");
+               API.sendchat.url ("http://i.imgur.com/qoetrfy.gif");
           }
        }
     };   
@@ -2148,7 +2148,7 @@
                     if (!basicBot.commands.executable(this.rank, chat)) return void (0);
                     else {
                         var link = 'http://i.imgur.com/qoetrfy.gif/';
-                        API.sendChat(subChat(basicBot.chat.emojilist, {link: link}));
+                        API.sendChat.link http://i.imgur.com/qoetrfy.gif);
                     }
                 }
             },
@@ -3754,6 +3754,22 @@ t            },
             }
         }
     };
+
+
+litcommand = {
+   command: 'lit',
+    rank: 'user',
+   type: 'exact',
+functionality: function (chat, cmd) {
+  if (!bot.commands.executable(this.rank, chat)) return void (0);
+  else {
+API.sendchat("http://i.imgur.com/qoetrfy.gif");
+
+  }
+}
+};
+
+
 
 
 
