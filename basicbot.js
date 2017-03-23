@@ -1828,9 +1828,9 @@
                      user:'exact',
                functionality: function (chat, cmd) {
 
-                if (!bot.commands.executable(thi.rank, chat)) return void (0);
+                if (!bot.commands.executable(this.rank, chat)) return void (0);
                 else {
-               API.sendchat.url ("http://i.imgur.com/qoetrfy.gif");
+               API.sendCha("http://i.imgur.com/qoetrfy.gif");
           }
        }
     };   
