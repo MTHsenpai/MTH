@@ -4,22 +4,19 @@
 #audience, #audience-canvas {
        width: 800px;         
                   
-
 }
 #dj-booth, #dj-canvas {
-    width: 345px;
-    height: 325px;
+    width: 365px;
+    height: 320px;
+
 }
-
-
-
 #dj-button, #dj-button.is-wait {
              top: 515px !important;
             left: 155px !important; 
 }
 #audience, #audience-canvas, #avatars-container, #dj-canvas {
 
-           top: -55px;
+           top: -50px;
     
 
 }
