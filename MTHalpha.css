@@ -1,4 +1,12 @@
- #dj-booth, #dj-canvas {
+ 
+
+
+#audience, #audience-canvas {
+       width: 777px;         
+       left: 15px;            
+
+}
+#dj-booth, #dj-canvas {
     width: 345px;
     height: 325px;
 }
