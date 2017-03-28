@@ -410,8 +410,8 @@
 }
 #woot, #grab, #meh {
 	 
-       top: 515px !important;        
-       left: 155px !important;
+        top: 515px !important;        
+       left: -155px !important;
 	
 }
 #vote .selected,
