@@ -409,7 +409,9 @@
 	background: rgba(0,0,0,0);
 }
 #woot, #grab, #meh {
-	margin-top: 0 !important;
+	margin-top: 0 !important; 
+       top: 515px !important;        
+       left: 155px !important;
 	
 }
 #vote .selected,
