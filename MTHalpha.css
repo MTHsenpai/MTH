@@ -3,7 +3,7 @@
 
 
 #dj-button, #dj-button.is-wait {
-             top: 515px !important;
+             top: 525px !important;
             left: 155px !important; 
 }
 #audience, #audience-canvas, #avatars-container, #dj-canvas {
@@ -404,7 +404,7 @@
         box-shadow: 0 0 0px #000;
 	border-radius: 40px;
 	width: 255px !important;
-          top: 515px !important;
+          top: 525px !important;
          left: 564px !important;
 }
 #app #vote .bottom {
