@@ -412,8 +412,8 @@
         box-shadow: 0 0 0px #000;
 	border-radius: 40px;
 	width: 255px !important;
-          top: 515px !important;
-         left: 564px !important;
+          top: 515px;
+         left: 564px;
 }
 #app #vote .bottom {
 	background: rgba(0,0,0,0);
