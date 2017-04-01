@@ -2,7 +2,7 @@
 
 
 #audience, #audience-canvas {
-       width: 820px !important;          
+       width: 820px;          
                   
 }
 #dj-booth, #dj-canvas {
@@ -16,7 +16,7 @@
 }
 #audience, #audience-canvas, #avatars-container, #dj-canvas {
 
-           top: -50px; 
+           top: -50px !important; 
     
 
 }
