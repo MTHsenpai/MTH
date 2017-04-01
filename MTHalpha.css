@@ -1,8 +1,8 @@
- 
+
 
 
 #audience, #audience-canvas {
-       width: 820px;         
+       width: 820px !important;          
                   
 }
 #dj-booth, #dj-canvas {
