@@ -1,6 +1,31 @@
 
 
+#player {
+    position: absolute;
+    left: 0px;
+    top: 0;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
 
+
+}
+iframe[Attributes Style] {
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+}
+
+
+
+
+
+
+
+}
 #audience, #audience-canvas {
        width: 666px;
        left: 31px;          
