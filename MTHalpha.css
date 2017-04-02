@@ -12,8 +12,8 @@
 
 }
 #dj-button, #dj-button.is-wait {
-             top: 515px !important; 
-            left: 155px !important; 
+             top: 624.5px !important; 
+            left: 274px !important; 
 }
 #audience, #audience-canvas, #avatars-container, #dj-canvas {
 
@@ -413,8 +413,8 @@
         box-shadow: 0 0 0px #000;
 	border-radius: 40px;
 	width: 255px !important;
-          top: 515px !important;
-         left: 564px !important;
+          top: 624.5px !important;
+         left: 712px !important;
 }
 #app #vote .bottom {
 	background: rgba(0,0,0,0);
