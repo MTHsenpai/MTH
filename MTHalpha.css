@@ -2,7 +2,7 @@
 
 
 #audience, #audience-canvas {
-       width: 820px;          
+       width: 666px;          
                   
 }
 #dj-booth, #dj-canvas {
@@ -16,8 +16,8 @@
 }
 #audience, #audience-canvas, #avatars-container, #dj-canvas {
 
-           top: -50px; 
-    
+           top: -56px; 
+          height: 
 
 }
 #room-settings a:hover, #chat a:hover {
