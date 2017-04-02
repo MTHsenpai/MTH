@@ -7,7 +7,7 @@
                   
 }
 #dj-booth, #dj-canvas {
-    width: 333px;
+    width: 331px;
     height: 320px;
 
 }
@@ -391,8 +391,7 @@
 
 }
 #dj-button:hover {
-	background: linear-gradient(hsla(220,100%,30%,0.6), hsla(220,100%,50%,0.6));
-       
+	background: linear-gradient(hsla(220,100%,30%,0.6), hsla(220,100%,50%,0.6));       
 
 }
 #dj-button .left {
@@ -414,7 +413,7 @@
 	border-radius: 40px;
 	width: 255px !important;
           top: 624.5px !important;
-         left: 712px !important;
+         left: 706px !important;
 }
 #app #vote .bottom {
 	background: rgba(0,0,0,0);
