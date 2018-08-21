@@ -14,7 +14,7 @@
         "footer": "",
         "header": ""
         },
-        "css": "https://rawgit.com/MTHsenpai/MTH/master/MTHalpha.css" {
+        "css":  {
         "font": [
         ],
         "import": "https://rawgit.com/MTHsenpai/MTH/master/MTHalpha.css",
