@@ -17,7 +17,7 @@
         "css": {
         "font": [
         ],
-        "import": ["https://rawgit.com/MTHsenpai/MTH/master/MTHalpha.css"],
+        "import": "",
         "rule": {
             
                 "#chat .mention": {
