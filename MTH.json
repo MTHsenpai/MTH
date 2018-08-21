@@ -104,101 +104,68 @@
                   "#volume": {
 		  "color":"#FACC2E",
 		  "font-weight":"bold"
-		  },
-           
-              
-
-
-
-             ".cm[data-cid^=\"23970289\"] .bdg": { 
-               
-      "background": "url('http://i.imgur.com/DNGTNKe.gif') !important"
-
-            
-
-},
-
-    ".cm[data-cid^=\"4199932\"] .bdg": { 
-     "background": "url('http://i.imgur.com/LhloBdy.gif') !important"
-
-            
-
-},
-
-
-      ".cm[data-cid^=\"5714412\"] .bdg": { 
-       "background": "url('http://i.imgur.com/wpEJsd7.gif') !important"
+	      },
+              ".cm[data-cid^=\"23970289\"] .bdg": { 
+               "background": "url('http://i.imgur.com/DNGTNKe.gif') !important"
+              },
+              ".cm[data-cid^=\"4199932\"] .bdg": { 
+                "background": "url('http://i.imgur.com/LhloBdy.gif') !important"
+              },
+              ".cm[data-cid^=\"5714412\"] .bdg": { 
+                "background": "url('http://i.imgur.com/wpEJsd7.gif') !important"
 
              },
-
-
-                ".cm[data-cid^=\"5714412\"] .bdg": { 
+             ".cm[data-cid^=\"5714412\"] .bdg": { 
                 "background": "url('http://i.imgur.com/UiuNr3q.gif') !important"
-
-            },
-            
-              ".cm[data-cid^=\"5214563\"] .bdg": { 
-                "background": "url('http://i.imgur.com/WcpeCss.gif') !important"
-            }, 
-
-               ".cm[data-cid^=\"3425516\"] .bdg": { 
-               "background": "url('http://i.imgur.com/Eby8f9K.gif') !important"
-	    },
-                   
-               ".cm[data-cid^=\"6048123\"] .bdg": { 
-               "background": "url('http://i.imgur.com/gme2Ugx.gif') !important"
-
-            },
-
-               ".cm[data-cid^=\"5081120\"] .bdg": { 
-                "background": "url('http://i.imgur.com/ICQ1T1u.gif') !important"
-            },
-	    ".cm[data-cid^=\"4409204\"] .bdg": { 
-                "background": "url('http://i.imgur.com/UTH7WNe.gif') !important"
-           },
-	    ".cm[data-cid^=\"3709014\"] .bdg": { 
-                "background": "url('http://i.imgur.com/7fSUCEv.gif') !important"  
-            },
-	    ".cm[data-cid^=\"4130632\"] .bdg": { 
-                "background": "url('http://i.imgur.com/HFGJEvV.gif') !important"  
-         
              },
-	    ".cm[data-cid^=\"5109245\"] .bdg": { 
+             ".cm[data-cid^=\"5214563\"] .bdg": { 
+                "background": "url('http://i.imgur.com/WcpeCss.gif') !important"
+             }, 
+             ".cm[data-cid^=\"3425516\"] .bdg": { 
+               "background": "url('http://i.imgur.com/Eby8f9K.gif') !important"
+	     },
+             ".cm[data-cid^=\"6048123\"] .bdg": { 
+               "background": "url('http://i.imgur.com/gme2Ugx.gif') !important"
+             },
+             ".cm[data-cid^=\"5081120\"] .bdg": { 
+                "background": "url('http://i.imgur.com/ICQ1T1u.gif') !important"
+             },
+	     ".cm[data-cid^=\"4409204\"] .bdg": { 
+                "background": "url('http://i.imgur.com/UTH7WNe.gif') !important"
+             },
+	     ".cm[data-cid^=\"3709014\"] .bdg": { 
+                "background": "url('http://i.imgur.com/7fSUCEv.gif') !important"  
+             },
+	     ".cm[data-cid^=\"4130632\"] .bdg": { 
+                "background": "url('http://i.imgur.com/HFGJEvV.gif') !important"  
+             },
+	     ".cm[data-cid^=\"5109245\"] .bdg": { 
                 "background": "url('http://i.imgur.com/J8Ej6ZB.gif') !important"  
-            },
+             },
 	     ".cm[data-cid^=\"6165455\"] .bdg": { 
                 "background": "url('http://i.imgur.com/pLextyS.gif') !important"  
-            },
-               ".cm[data-cid^=\"3908945\"] .bdg": { 
+             },
+             ".cm[data-cid^=\"3908945\"] .bdg": { 
                "background": "url('http://i.imgur.com/CskAJce.gif') !important"
-	    },
-                ".cm[data-cid^=\"5191593\"] .bdg": { 
+	     },
+             ".cm[data-cid^=\"5191593\"] .bdg": { 
                 "background": "url('http://i.imgur.com/0rWf2mK.gif') !important"
              },
-
-                  ".cm[data-cid^=\"5440253\"] .bdg": { 
-                  "background": "url('http://i.imgur.com/Qustljg.gif') !important"
-
+             ".cm[data-cid^=\"5440253\"] .bdg": { 
+                 "background": "url('http://i.imgur.com/Qustljg.gif') !important"
             },                  
-
-                ".cm[data-cid^=\"12820836\"] .bdg": { 
+            ".cm[data-cid^=\"12820836\"] .bdg": { 
                 "background": "url('http://i.imgur.com/1HIhEn5.gif') !important"
-
             },
-              ".cm[data-cid^=\"17380174\"] .bdg": {
+            ".cm[data-cid^=\"17380174\"] .bdg": {
                 "background": "url('http://i.imgur.com/yeaRdUk.gif') !important"
             },
-
-             ".cm[data-cid^=\"362602\"] .bdg": {
+            ".cm[data-cid^=\"362602\"] .bdg": {
                 "background": "url('http://i.imgur.com/L5Tn2Lz.gif') !important"
             },
-
-
-               ".cm[data-cid^=\"3856336\"] .bdg": {
+            ".cm[data-cid^=\"3856336\"] .bdg": {
                 "background": "url('http://i.imgur.com/WAVG5m3.gif') !important"
             },
-
-
             ".cm[data-cid^=\"5984511\"] .bdg": {
                 "background": "url('http://i.imgur.com/79hMBCI.gif') !important"
             },
@@ -216,7 +183,7 @@
             },
             ".cm[data-cid^=\"18651251\"] .bdg": {
                 "background": "url('http://i.imgur.com/8gqkaZJ.gif') !important"
-             },
+            },
             ".cm[data-cid^=\"3547702\"] .bdg": {
                 "background": "url('http://i.imgur.com/GNohtf0.gif') !important"
             },
@@ -244,7 +211,7 @@
             ".cm[data-cid^=\"3631561\"] .bdg": {               
              "background": "url('http://i.imgur.com/LdSf8bl.gif') !important"
             },
-	        ".cm[data-cid^=\"6312450\"] .bdg": {
+	    ".cm[data-cid^=\"6312450\"] .bdg": {
                 "background": "url('http://i.imgur.com/QUQ2SGr.gif') !important"
             },
             ".cm[data-cid^=\"5984511\"]": {
