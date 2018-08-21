@@ -1,1 +1,88 @@
-.
+/*### [message] ###*/
+#chat .cm {
+	background: transparent;
+	box-shadow: inset 0px 0px 0px 0 hsla(220,10%,20%,0.7)
+       
+}
+#chat .cm.message:nth-child(2n+1) {
+	background: transparent;
+	box-shadow: inset 0px 0px 0px 0 hsla(220,10%,0%,0.7);
+}
+#chat .cm .badge-box {
+	background: rgba(0,0,0,0) !important;
+}
+#chat .cm .timestamp {
+	color: #818587;
+}
+#chat .cm.deletable .delete-button {
+	border-radius: 8px;
+	background: linear-gradient(hsl(0,0%,30%), hsl(0,0%,40%));
+	box-shadow: inset 0 0 0 1px hsl(0,0%,50%);
+}
+#chat .cm.deletable .delete-button:hover {
+	background: linear-gradient(hsl(5,100%,60%), hsl(5,100%,50%));
+	box-shadow: 0 0 10px hsl(5,100%,50%);
+	color: #000;
+}
+/*#####[HOST]#####*/
+.icon-chat-host {
+	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Red-icon.png);
+	background-position: 2px 0 !important;
+}
+.icon-chat-host + span,
+#user-lists .group.host ~ .user span,
+#dialog-user-role .role-menu .menu ul .host span {
+	color: #FF3300 !important;
+}
+#user-lists .group.host {
+	color: #FF3300;
+	top: 1px;
+}
+/*#####[CO-HOSTS]#####*/
+.icon-chat-cohost {
+	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Red-icon.png);
+	background-position: 2px 0 !important;
+}
+.icon-chat-cohost + span,
+#dialog-user-role .dialog-body .role-menu .menu ul .cohost span {
+	color: #FF3300 !important;
+}
+/*#####[MANAGER]#####*/
+.icon-chat-manager {
+	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Blue-icon.png);
+	background-position: 2px 0 !important;
+}
+.icon-chat-manager + span,
+#user-lists .group.manager ~ .user span,
+#dialog-user-role .role-menu .menu ul .manager span {
+	color: #0174DF !important;
+}
+#user-lists .group.manager {
+	color: #0174DF;
+}
+/*#####[BOUNCER]#####*/
+.icon-chat-bouncer {
+	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Yellow-icon.png);
+	background-position: 1px 0 !important;
+}
+.icon-chat-bouncer + span,
+#user-lists .group.bouncer ~ .user span,
+#dialog-user-role .role-menu .menu ul .bouncer span {
+	color: #FACC2E !important;
+}
+#user-lists .group.bouncer {
+	color: #FACC2E;
+}
+/*#####[DJ]#####*/
+.icon-chat-dj {
+	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Green-icon.png);
+	background-position: 0 0 !important;
+}
+#user-lists .group.dj {
+	color: #04B404;
+}
+.icon-chat-dj + span,
+#user-lists .group.dj ~ .user span,
+#dialog-user-role .role-menu .menu ul .dj span {
+	color: #04B404 !important;
+}
