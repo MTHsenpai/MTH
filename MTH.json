@@ -1,7 +1,7 @@
 {
     "author": "mth",
     "colors": {
-        "background": "",
+        "background": "https://i.imgur.com/H7sQattr.jpg",
         "chat": {
             "ambassador": "#84B423",
              "bouncer": "#FACC2E",
@@ -14,7 +14,7 @@
         "footer": "",
         "header": ""
         },
-        "css": {
+        "css":  {
         "font": [
         ],
         "import": ["https://rawgit.com/MTHsenpai/MTH/master/MTHalpha.css"],
