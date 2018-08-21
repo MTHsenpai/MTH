@@ -1,7 +1,7 @@
 {
     "author": "mth",
     "colors": {
-        "background": ["https://i.imgur.com/H7sQattr.jpg"],
+        "background": "https://i.imgur.com/H7sQattr.jpg",
         "chat": {
             "ambassador": "#84B423",
              "bouncer": "#FACC2E",
@@ -189,9 +189,6 @@
             ".cm[data-cid^=\"6103177\"] .bdg": {
                 "background": "url('http://i.imgur.com/28qYobt.gif') !important"
             },
-            ".cm[data-cid^=\"4837788\"] .bdg": {
-                "background": "url('') !important"
-            },
             ".cm[data-cid^=\"3628770\"] .bdg": {
                 "background": "url('http://i.imgur.com/9xIv2FU.gif') !important"
             },
@@ -209,12 +206,6 @@
             },
 	    ".cm[data-cid^=\"6312450\"] .bdg": {
                 "background": "url('http://i.imgur.com/QUQ2SGr.gif') !important"
-            },
-            ".cm[data-cid^=\"5984511\"]": {
-                "background": "linear-gradient(135deg, #009cdd 0,#0a0a0a 13%,#0a0a0a 100%)"
-            },
-            ".cm[data-cid^=\"5984511\"]:nth-child(2n+1)": {
-                "background": "linear-gradient(135deg, #009cdd 0,#111317 13%,#111317 100%)"
             },
              ".cm.moderation": {
                 "background": "linear-gradient(135deg, #009cdd 0,#0a0a0a 13%,#0a0a0a 100%)"
@@ -236,8 +227,9 @@
              "manager": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Blue-icon.png",
              "residentdj": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Green-icon.png"
         },
-        "playback-container": "http://i.imgur.com/qoetrfy.gif"
-    },
+       
+            "playback-container": "http://i.imgur.com/qoetrfy.gif"
+         },
 
         "rules": {
         "allowAutorespond": false,
