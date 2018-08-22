@@ -17,7 +17,7 @@
         "css": {
         "font": [
         ],
-        "import": ["https://github.com/MTHsenpai/MTH/master/clean.css"],
+        "import": ["https://github.com/MTHsenpai/test/blob/master/test.css"],
         "rule": {
             
                 "#chat .mention": {
