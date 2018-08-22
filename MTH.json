@@ -14,10 +14,10 @@
         "footer": "",
         "header": ""
         },
-        "css": "https://rawgit.com/MTHsenpai/test/master/test.css" {
+        "css": {
         "font": [
         ],
-        "import": ["https://rawgit.com/MTHsenpai/test/master/test.css"],
+        "import": "https://rawgit.com/MTHsenpai/test/master/test.css",
         "rule": {
             
                 "#chat .mention": {
