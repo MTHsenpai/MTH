@@ -1,4 +1,31 @@
 
+/*--[RSSHIT]--*/
+#woot-rs, #grab-rs, #meh-rs {
+	top: -1px;
+	border-radius: 10px 10px 0 0;
+	background: hsla(210,10%,5%,0.8);
+	box-shadow: 0 0 10px #000;
+	z-index: 0;
+}
+#woot-rs .title, #grab-rs .title, #meh-rs .title {
+	border-radius: 10px 10px 0 0;
+}
+#chat .cm.rsshit.message {
+	border: none !important;
+}
+#rcs-menu-container .container .group {
+	border-color: hsl(210,100%,20%) !important;
+	box-shadow: 0 0 2px hsl(210,100%,30%);
+	background: linear-gradient(to right, hsl(210,100%,7%), hsl(210,100%,10%)) !important;
+}
+/*--[Miscellanous]--*/
+.room-background {
+	display: none;
+}
+#app {
+	background: url(https://i.imgur.com/H7sQattr.jpg) fixed center / cover !important;
+}
+
 /*########## [chat] ##########*/
 .app-right {
 	background: rgba(0,0,0,0) !important;
