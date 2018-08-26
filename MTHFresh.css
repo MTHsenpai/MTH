@@ -15,7 +15,14 @@
 #dialog-user-role .role-menu .menu ul .host span {
 	color: #FF3300 !important;
 }
-
-
+#user-lists .group.host {
+	color: #FF3300;
+	top: 1px;
+}
+/*#####[DJ]#####*/
+.icon-chat-dj {
+	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Green-icon.png);
+	background-position: 0 0 !important;
+}
 
 
