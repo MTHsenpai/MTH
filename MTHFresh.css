@@ -1,7 +1,7 @@
-#room-background {
-    background: url(https://i.imgur.com/H7sQattr.jpg) no-repeat !important;
-    width: 500% !important;
-    height: 500% !important;
+/*#####[HOST]#####*/
+.icon-chat-host {
+	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Red-icon.png);
+	background-position: 2px 0 !important;
 }
 
 
