@@ -27,11 +27,11 @@
         "user": null
     },
     "images": {
-        "background": null,
+        "background": "https://i.imgur.com/H7sQattr.jpg",
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": null,
+        "host": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Blue-icon.png",
         "cohost": null,
         "manager": null,
         "bouncer": null,
