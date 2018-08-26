@@ -119,6 +119,11 @@
 
 /*---[Random Shit]---*/
 
+.community .room-controls--desktop {
+    border-radius: 20px;
+    border-style: hidden;
+}
+
 .community__song-playing {
     font-weight: 500;
     text-overflow: ellipsis;
