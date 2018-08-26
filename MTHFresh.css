@@ -64,10 +64,4 @@
 #dialog-user-role .role-menu .menu ul .dj span {
 	color: #00BB0A !important;
 }
-/*--[moderation]--*/
-#chat .cm.moderation {
-	background: linear-gradient(hsla(260,50%,10%,0.3), hsla(260,50%,10%,0.3)),
-	linear-gradient(to right, hsla(0,0%,0%,0), hsla(0,0%,10%,0.3)) !important;
-	box-shadow: inset 0 0 0 0px hsl(260,50%,50%);
-	border: none !important;
-}
+
