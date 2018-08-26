@@ -33,10 +33,10 @@
 .icon-chat-manager + span,
 #user-lists .group.manager ~ .user span,
 #dialog-user-role .role-menu .menu ul .manager span {
-	color: #0015D1 !important;
+	color: #2538E6 !important;
 }
 #user-lists .group.manager {
-	color: #0015D1;
+	color: #2538E6;
 }
 /*#####[BOUNCER]#####*/
 .icon-chat-bouncer {
