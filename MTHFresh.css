@@ -105,6 +105,14 @@
 	text-shadow: 0 0 5px #000;
 }
 
+/*--[Grid Cell]--*/
+
+.grid .cell {
+	border-radius: 30px;
+	background: radial-gradient(hsl(220,50%,40%), hsl(220,50%,20%)) !important;
+	box-shadow: 0 0 10px #000;
+}
+
 
 
 
