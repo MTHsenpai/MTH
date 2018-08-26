@@ -18,6 +18,7 @@
 	color: #DD2C00;
 	top: 1px;
 }
+
 /*#####[CO-HOSTS]#####*/
 .icon-chat-cohost {
 	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Red-icon.png);
@@ -27,6 +28,7 @@
 #dialog-user-role .dialog-body .role-menu .menu ul .cohost span {
 	color: #DD2C00 !important;
 }
+
 /*#####[MANAGER]#####*/
 .icon-chat-manager {
 	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Blue-icon.png);
@@ -40,6 +42,7 @@
 #user-lists .group.manager {
 	color: #2538E6;
 }
+
 /*#####[BOUNCER]#####*/
 .icon-chat-bouncer {
 	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Yellow-icon.png);
@@ -53,6 +56,7 @@
 #user-lists .group.bouncer {
 	color: #FACC2E;
 }
+
 /*#####[DJ]#####*/
 .icon-chat-dj {
 	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Green-icon.png);
@@ -84,3 +88,22 @@
 	background: url(http://i.imgur.com/j7fnxpL.gif) 0 -12px no-repeat !important;
 	box-shadow: 0 0 10px #000;
 }
+
+/*--[user-rollover]--*/
+#user-rollover {
+	border-radius: 30px 30px 0 0;
+	background: linear-gradient(135deg, hsla(0,0%,20%,0.6), hsla(0,0%,0%,0.6));
+	box-shadow: 0 0 10px #000;
+}
+#user-rollover .info {
+	background: linear-gradient(hsla(220,100%,30%,0.5), hsla(220,100%,15%,0.5));
+	box-shadow: 0px -2px 10px -1px #000;
+	border-radius: 50% 50% 0 0 !important;
+}
+#user-rollover .info i +span {
+	text-shadow: 0 0 5px #000;
+}
+
+
+
+
