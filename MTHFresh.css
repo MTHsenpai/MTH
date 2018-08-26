@@ -1,5 +1,12 @@
+/*---[Background]---*/
 
-
+.room-background {
+      display: none;
+}
+#app {
+    
+ background: url(https://i.imgur.com/H7sQattr.jpg) fixed center / cover !important;
+}
 
 /*#####[HOST]#####*/
 .icon-chat-host {
