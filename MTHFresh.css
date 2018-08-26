@@ -19,10 +19,52 @@
 	color: #FF3300;
 	top: 1px;
 }
+/*#####[CO-HOSTS]#####*/
+.icon-chat-cohost {
+	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Red-icon.png);
+	background-position: 2px 0 !important;
+}
+.icon-chat-cohost + span,
+#dialog-user-role .dialog-body .role-menu .menu ul .cohost span {
+	color: #FF3300 !important;
+}
+/*#####[MANAGER]#####*/
+.icon-chat-manager {
+	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Blue-icon.png);
+	background-position: 2px 0 !important;
+}
+.icon-chat-manager + span,
+#user-lists .group.manager ~ .user span,
+#dialog-user-role .role-menu .menu ul .manager span {
+	color: #0174DF !important;
+}
+#user-lists .group.manager {
+	color: #0174DF;
+}
+/*#####[BOUNCER]#####*/
+.icon-chat-bouncer {
+	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Yellow-icon.png);
+	background-position: 1px 0 !important;
+}
+.icon-chat-bouncer + span,
+#user-lists .group.bouncer ~ .user span,
+#dialog-user-role .role-menu .menu ul .bouncer span {
+	color: #FACC2E !important;
+}
+#user-lists .group.bouncer {
+	color: #FACC2E;
+}
 /*#####[DJ]#####*/
 .icon-chat-dj {
 	background: url(http://icons.iconarchive.com/icons/morcha/rainbow/16/Green-icon.png);
 	background-position: 0 0 !important;
 }
-
+#user-lists .group.dj {
+	color: #04B404;
+}
+.icon-chat-dj + span,
+#user-lists .group.dj ~ .user span,
+#dialog-user-role .role-menu .menu ul .dj span {
+	color: #04B404 !important;
+}
 
