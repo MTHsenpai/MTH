@@ -13,10 +13,10 @@
 .icon-chat-host + span,
 #user-lists .group.host ~ .user span,
 #dialog-user-role .role-menu .menu ul .host span {
-	color: #FF3300 !important;
+	color: #DD2C00 !important;
 }
 #user-lists .group.host {
-	color: #FF3300;
+	color: #DD2C00;
 	top: 1px;
 }
 /*#####[CO-HOSTS]#####*/
@@ -26,7 +26,7 @@
 }
 .icon-chat-cohost + span,
 #dialog-user-role .dialog-body .role-menu .menu ul .cohost span {
-	color: #FF3300 !important;
+	color: #DD2C00 !important;
 }
 /*#####[MANAGER]#####*/
 .icon-chat-manager {
@@ -36,10 +36,10 @@
 .icon-chat-manager + span,
 #user-lists .group.manager ~ .user span,
 #dialog-user-role .role-menu .menu ul .manager span {
-	color: #0174DF !important;
+	color: #0015D1 !important;
 }
 #user-lists .group.manager {
-	color: #0174DF;
+	color: #0015D1;
 }
 /*#####[BOUNCER]#####*/
 .icon-chat-bouncer {
@@ -60,11 +60,11 @@
 	background-position: 0 0 !important;
 }
 #user-lists .group.dj {
-	color: #04B404;
+	color: #00BB0A;
 }
 .icon-chat-dj + span,
 #user-lists .group.dj ~ .user span,
 #dialog-user-role .role-menu .menu ul .dj span {
-	color: #04B404 !important;
+	color: #00BB0A !important;
 }
 
