@@ -2,7 +2,7 @@
     "room": "Minimal Techno House™ ツ",
     "author": "MrD",
     "icon": null,
-    "css": null,
+    "css": "https://rawgit.com/MTHsenpai/MTH/master/MTHFresh.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
