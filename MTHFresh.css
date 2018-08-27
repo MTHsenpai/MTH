@@ -112,6 +112,11 @@
 
 /*---[User List]---*/
 
+#user-lists .group {
+	border: none !important;
+	box-shadow: 0 0px 1px;
+}
+
 #user-lists .list .staff .group {
         background-color: rgba(0, 0, 0, 0.3);
 
