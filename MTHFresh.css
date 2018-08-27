@@ -177,3 +177,13 @@
 #user-view, #dashboard, #room-settings, #media-panel, #playlist-panel, #history-panel {
     background-color: inherit;
 }
+
+/*---[Chat Mention]---*/
+
+#chat .cm.mention {
+	background: linear-gradient(hsla(77,100%,10%,0.3), hsla(77,100%,10%,0.3)),
+	linear-gradient(to right, hsla(0,0%,0%,0), hsla(0,0%,10%,0.3));
+	box-shadow: inset 0 0 0 0px hsl(77,100%,30%);
+	border: none;
+}
+
