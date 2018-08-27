@@ -144,6 +144,7 @@
 }
 
 /*--[toast-notifications]--*/
+
 .notification {
 	border-radius: 20px;
 	background: rgba(50,100,255,0.1);
@@ -158,4 +159,14 @@
 	border-radius: 0 20px 20px 0;
 	background: linear-gradient(rgba(255,255,255,0.2), rgba(0,0,0,0)) !important;
         
+}
+
+/*---[User Menu]---*/
+
+.community .community__playlist--desktop, .community .community__playlist--mobile {
+    background-color: inherit;
+}
+
+#user-view, #dashboard, #room-settings, #media-panel, #playlist-panel, #history-panel {
+    background-color: inherit;
 }
